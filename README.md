@@ -27,9 +27,9 @@ Logo após inicializar nosso metasploit usaremos o comando ```search ssh_login``
 
 
 ➡️ Foi realizado o caminho da wordlist e do ip alvo e dessa forma ele abriu uma seção para que eu me comunicasse com servidor remoto.
+
 ![image](https://github.com/user-attachments/assets/7ad93dbe-1e54-4f15-9d21-acafca9056e3)
 
-![image](https://github.com/user-attachments/assets/deb0e946-a75e-4a8f-8aa7-6a87fb826b44)
 
 ---
 ➡️ Com a seção aberta, será possivel caminhar por dentro do alvo, como mostra a figura a baixo o ip do alvo como os caminhos que pode pecorrer dentro da máquina atacada.
